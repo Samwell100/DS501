@@ -14,7 +14,7 @@ library(data.table)
 
 # Load Data
 
-data0 = req(read.csv(file = "data/StudentsPerformance.csv"))
+data0 = req(read.csv(file = "StudentsPerformance.csv"))
 
 # Filtering to just numeric data
 
